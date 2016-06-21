@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ben Stuckey]]></title>
+        <description><![CDATA[Ben Stuckey]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 21 Jun 2016 13:28:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Proud to be part of Finn Business Sales in Perth Australia. Small business has always been part of my working life, so it is great to be able to help people move in and out of business as their journey takes them to new opportunities.</p>]]></description>
+            <link>undefinedproud-to-be-part-of-finn-business-sales-in-perth-australia/index.html</link>
+            <guid isPermaLink="false">2fb8959f-c100-404f-b69d-5c5bdf81c707</guid>
+            <pubDate>Tue, 21 Jun 2016 13:28:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
